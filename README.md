@@ -19,5 +19,5 @@
 To become a Python Full Stack Developer and secure a software job.
 
 ## 📫 Connect with me
-LinkedIn: (Add your LinkedIn profile URL here)# python-full-stack-journey
+LinkedIn: (https://www.linkedin.com/in/loka-nadha-bb1379343)# python-full-stack-journey
 my python full stack learning and projects
